@@ -15,6 +15,9 @@ engines:
     enabled: true
   radon:
     enabled: true
+    checks:
+      Complexity:
+        enabled: false
 ratings:
   paths:
   - "**.css"
