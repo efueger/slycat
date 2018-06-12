@@ -24,6 +24,16 @@
     width: device-width; }
  }
 
+.bootstrap-styles {
+  /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+  /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+  @-webkit-keyframes progress-bar-stripes {
+    from {
+      background-position: 40px 0; }
+
+    to {
+      background-position: 1 0; } }
+
 .bootstrap-styles html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
